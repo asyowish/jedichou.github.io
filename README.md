@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎查看Jedi Chou的博客页面
 
 You can use the [editor on GitHub](https://github.com/jedichou/jedichou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
