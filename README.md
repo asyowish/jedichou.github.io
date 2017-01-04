@@ -26,46 +26,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-```html
-<html>
-  <head>
-    <title>ok</title>
-  </head>
-  <body>
-    <ul>
-      <li>1</li>
-      <li>2</li>
-      <li>3</li>
-    </ul>
-  </body>
-</html>
-```
-
-```c#
-namespace NextSystemBLL
-{
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using DataBase;
-    using System.IO;
-
-    /// <summary>
-    /// tasklist 的主要参数
-    /// </summary>
-    public class TaskListObj
-    {
-        public string UserId { get; set; }
-        public string TaskText { get; set; }
-        public string TaskType { get; set; }
-        public string TaskCaseName { get; set; }
-        public string Guid { get; set; }
-        public string DivisionNo { get; set; }
-        public string DepartId { get; set; }
-    }
-}
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
