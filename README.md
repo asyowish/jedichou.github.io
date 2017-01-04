@@ -26,6 +26,21 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```html
+<html>
+  <head>
+    <title>ok</title>
+  </head>
+  <body>
+    <ul>
+      <li>1</li>
+      <li>2</li>
+      <li>3</li>
+    </ul>
+  </body>
+</html>
+```
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
