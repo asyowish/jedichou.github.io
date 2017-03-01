@@ -7,4 +7,4 @@
 * [20170107-1857-PM 参考一片国外的文章学会了为Notepad++创建新语法文件](http://www.thevalvepage.com/swmonkey/2015/08/19/notepad-user-defined-languages/)
 
 ### 2017.2
-* [20170301-0817-AM 一些小技巧](https://github.com/jedichou/jedichou.github.io/blob/master/201703/20170301-0817-Notes.md)
+* [20170301-0817-AM 一些小技巧](https://github.com/jedichou/jedichou.github.io/blob/master/201703/20170301/20170301-0817-Notes.md)
