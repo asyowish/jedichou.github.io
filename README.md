@@ -2,7 +2,8 @@
 
 我和Ray是长期做软件测试的，Ray是从2007年开始的，我略久点是从2003年开始的。时至今日在测试方面多多少少有点积累，借着github page也多少写上一点！
 
-### 2017.2
+### 2017.3
+* [20170302-1342-PM 听闻NanoServer的事，记录了一些链接](https://github.com/jedichou/jedichou.github.io/blob/master/201703/20170302/20170302-1342-NanoServer.md) 
 * [20170301-0817-AM 一些小技巧](https://github.com/jedichou/jedichou.github.io/blob/master/201703/20170301/20170301-0817-Notes.md)
 
 ### 2017.1
